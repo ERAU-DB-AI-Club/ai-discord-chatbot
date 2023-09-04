@@ -4,6 +4,7 @@ Project of ERAU AI Club
 ## Requirements:
 
 - Python 3.8
+- TensorFlow 2.3.0
 - See [requirements file](requirements.txt)
 
 ## Run your own instance:
